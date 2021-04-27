@@ -1,1 +1,2 @@
 # TP1_DWDT
+Wine quality can be defined using its physical qualities. Using a dataset of Portuguese red wines and a Random Forest Model for machine learning, we can predict with nearly 60% accuracy the quality of wine on a 0 to 10 scale.
